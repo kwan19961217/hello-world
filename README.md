@@ -1,2 +1,3 @@
 # hello-world
-First of Many
+ Hi everyone 
+<p>a guy from Hong Kong trying to learning coding

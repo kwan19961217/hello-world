@@ -1,3 +1,3 @@
 # hello-world
  Hi everyone 
-<p>A guy from Hong Kong trying to learning coding
+<p>A guy from Hong Kong trying to learn Computer Science and Programming
